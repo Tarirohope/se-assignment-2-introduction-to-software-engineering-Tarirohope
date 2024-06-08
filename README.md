@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15238925&assignment_repo_type=AssignmentRepo)
+
 # SE-Assignment-2
+
 Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
@@ -8,7 +10,13 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+Answer:
+Software Engineering is a systematic application of engineering principles, methods and tools to the development and maintainance of quality software systems. It involves the design, development, testing,deployment and maintainance of software products.
+
 What is software engineering, and how does it differ from traditional programming?
+
+Answer:
+Software Engineering is the design, development, deployment, testing and maintenance of software products.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
